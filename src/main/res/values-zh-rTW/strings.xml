@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">全國電子雲圖檔管理</string>
+
+    <string name="title_section1">登錄</string>
+    <string name="title_section2">瀏覽圖檔目錄</string>
+    <string name="title_section3">上傳檔案</string>
+    <string name="title_section4">下載檔案</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">設定</string>
+</resources>
